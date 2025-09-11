@@ -30,7 +30,8 @@
 
 **Мои сертификаты.**
 
--  Курс 1С-программист: с нуля до middle. [Сертификат]([https://github.com/NikolayK1604/fonecmid-diplom.git](https://netology.ru/sharing/cf8438916c1d2fd05f59a37277ff1e11?utm_source=social&utm_campaign=certificate_lms)
+-  Курс 1С-программист: с нуля до middle. Сертификат<img width="484" height="28" alt="image" src="https://github.com/user-attachments/assets/4ab57637-1c96-43be-b5af-04fa08485537" />
+
  
 [ ](https://netology.ru/profile/program/onecmid-48)
 
