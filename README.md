@@ -27,7 +27,8 @@
 
 **Мои работы.**
 
- -  Комплексная итоговая работа. [Итоговая работа](https://github.com/NikolayK1604/fonecmid-diplom.git)  
+ -  Комплексная итоговая работа. [Итоговая работа](https://github.com/NikolayK1604/fonecmid-diplom.git)
+ -  Тестовое задание от ООО "Новый Мир". [Ссылка](https://github.com/NikolayK1604/Tests.git)
 
 **Мои сертификаты.**
 
