@@ -31,7 +31,7 @@
 
 **Мои сертификаты.**
 
--  Курс [1С-программист: с нуля до middle. Сертификат](https://netology.ru/sharing/cf8438916c1d2fd05f59a37277ff1e11?utm_source=social&utm_campaign=certificate_lms )
+-  Курс 1С-программист: с нуля до middle. [Сертификат](https://netology.ru/sharing/cf8438916c1d2fd05f59a37277ff1e11?utm_source=social&utm_campaign=certificate_lms )
 
 [ ](https://netology.ru/profile/program/onecmid-48)
 
