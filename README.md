@@ -30,8 +30,7 @@
 
 **Мои сертификаты.**
 
--  Курс 1С-программист: с нуля до middle. Сертификат<img width="484" height="28" alt="image" src="https://github.com/user-attachments/assets/4ab57637-1c96-43be-b5af-04fa08485537" />
-
+-  Курс [1С-программист: с нуля до middle. Сертификат](https://netology.ru/profile/program/onecmid-48)
  
 [ ](https://netology.ru/profile/program/onecmid-48)
 
