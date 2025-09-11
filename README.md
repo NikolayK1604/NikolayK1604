@@ -6,7 +6,6 @@
 
 **Что я умею.**
 
--  Комплексная итоговая работа. [Итоговая работа](https://github.com/NikolayK1604/fonecmid-diplom.git)
 
 -  Работаю в «1С:Предприятие» с разными типами клиентов и конфигурациями
 
@@ -26,13 +25,14 @@
 
 -  Провожу автоматизированное тестирование
 
-   
+**Мои работы.**
+
+ -  Комплексная итоговая работа. [Итоговая работа](https://github.com/NikolayK1604/fonecmid-diplom.git)  
 
 **Мои сертификаты.**
 
--  Курс 1С-программист: с нуля до middle. [Сертификат](https://netology.ru/sharing/cf8438916c1d2fd05f59a37277ff1e11?utm_source=social&utm_campaign=certificate_lms )
- 
-[ ](https://netology.ru/profile/program/onecmid-48)
+-  Курс [1С-программист: с нуля до middle. Сертификат](https://netology.ru/sharing/cf8438916c1d2fd05f59a37277ff1e11?utm_source=social&utm_campaign=certificate_lms )
 
+[ ](https://netology.ru/profile/program/onecmid-48)
 
 
